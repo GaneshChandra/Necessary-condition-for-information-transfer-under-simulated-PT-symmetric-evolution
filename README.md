@@ -1,4 +1,4 @@
-# PTsymm_mathematica
+# Necessary condition for information transfer under simulated $\mathcal{PT}$-symmetric evolution
 This is a repository which contains the code necessary to check the validity of the paper at  https://arxiv.org/abs/2102.13630
 1) The file named "Theorem_1_main_result" contains the calculation for the main result. We considered an arbotrary mixed state with an arbitrary measurement and found that the information transfer requires imaginary numbers to be present in the state and measurement.  
 2) The code file named "wernerstate_ymeasure.nb" contains the calculation to demonstrate a similar result for the werner state. Especially the equation number 11. 
